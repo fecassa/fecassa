@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![Blog Badge](https://img.shields.io/badge/Blog-fernandocassiano.com.br-black)](http://fernandocassiano.com.br)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://bit.ly/35wicK4)](https://bit.ly/35wicK4)
 <!--
 **fecassa/fecassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
