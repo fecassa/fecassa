@@ -5,6 +5,8 @@ I have greate experience creating solutions based on .net framework and most rec
 
 I am currently working on my own business, my digital agency, where I intend to offer training and web and mobile  solutions for small offices and digital entrepreneurs
 
+</br></br></br>
+
 [![Blog Badge](https://img.shields.io/badge/Blog-fernandocassiano.com.br-black)](http://fernandocassiano.com.br)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://bit.ly/35wicK4)](https://bit.ly/35wicK4)
 <!--
